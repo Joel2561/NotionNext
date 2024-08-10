@@ -10,9 +10,9 @@ const CONFIG = {
   ],
     { title: 'Never underestimate your power to change yourself! 永远不要低估你改变自我的能力!', url: '' }
   ],
-    { title: 'Shoot for the moon, even if you miss, you'll land among the stars. 向月亮进发，即便没有达到，你亦将置身群星之中。', url: '' }
+    { title: 'Shoot for the moon, even if you miss, you'll land among the stars. 向月亮进发，即便没有达到，你亦将置身群星之中。', url: 'https://yujiale.blog' }
   ],
-    { title: 'Keep your eyes on the stars, and your feet on the ground. 志存高远，脚踏实地。', url: '' }
+    { title: 'Keep your eyes on the stars, and your feet on the ground. 志存高远，脚踏实地。', url: 'https://yujiale.blog' }
   ],
 
   // 英雄区左右侧组件颠倒位置
