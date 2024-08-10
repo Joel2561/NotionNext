@@ -8,6 +8,8 @@ const CONFIG = {
     { title: '欢迎来到我的博客', url: 'https://yujiale.blog' },
     { title: '电脑端按住Ctrl键向下滚动鼠标滑轮放大页面', url: 'https://jingyan.baidu.com/article/aa6a2c14e893080d4c19c4db.html' }
   ],
+    { title: 'Never underestimate your power to change yourself! 永远不要低估你改变自我的能力!', url: '' }
+  ],
 
   // 英雄区左右侧组件颠倒位置
   HEO_HERO_REVERSE: false,
