@@ -10,6 +10,10 @@ const CONFIG = {
   ],
     { title: 'Never underestimate your power to change yourself! 永远不要低估你改变自我的能力!', url: '' }
   ],
+    { title: 'Shoot for the moon, even if you miss, you'll land among the stars. 向月亮进发，即便没有达到，你亦将置身群星之中。', url: '' }
+  ],
+    { title: 'Keep your eyes on the stars, and your feet on the ground. 志存高远，脚踏实地。', url: '' }
+  ],
 
   // 英雄区左右侧组件颠倒位置
   HEO_HERO_REVERSE: false,
@@ -22,7 +26,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'yujiale.blog',
   HEO_HERO_TITLE_4: '网站上线',
   HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_LINK: 'https://yujiale.blog',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
