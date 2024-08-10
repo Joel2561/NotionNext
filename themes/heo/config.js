@@ -7,7 +7,7 @@ const CONFIG = {
   HEO_NOTICE_BAR: [
     { title: '欢迎来到我的博客', url: 'https://yujiale.blog' },
     { title: '电脑端按住Ctrl键向下滚动鼠标滑轮放大页面', url: 'https://jingyan.baidu.com/article/aa6a2c14e893080d4c19c4db.html' },
-    { title: 'Never underestimate your power to change yourself! 永远不要低估你改变自我的能力!', url: '' },
+    { title: 'Never underestimate your power to change yourself! 永远不要低估你改变自我的能力!', url: 'https://yujiale.blog' },
     { title: 'Shoot for the moon, even if you miss, you'll land among the stars. 向月亮进发，即便没有达到，你亦将置身群星之中。', url: 'https://yujiale.blog' },
     { title: 'Keep your eyes on the stars, and your feet on the ground. 志存高远，脚踏实地。', url: 'https://yujiale.blog' }
   ],
